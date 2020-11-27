@@ -1,0 +1,105 @@
+{
+  "1YPQGrMEVesPL4jMpSjOlS7FyiSsgPTIT": {
+    "id": "1YPQGrMEVesPL4jMpSjOlS7FyiSsgPTIT",
+    "name": "Лабораторная №1",
+    "mimeType": "application/vnd.google-apps.folder",
+    "type": "zadacha",
+    "deadline": "2020-05-08",
+    "date": "2020-05-04 20:54:46.332275",
+    "childs": [
+      {
+        "id": "0"
+      }
+    ]
+  },
+  "1KOytdjDcgpJqcVQEntSHARJPKUEt4QAX": {
+    "id": "1KOytdjDcgpJqcVQEntSHARJPKUEt4QAX",
+    "name": "Дифференциальные уравнения",
+    "mimeType": "application/vnd.google-apps.folder",
+    "type": "predmet",
+    "date": "2020-05-04 20:54:46.332275",
+    "childs": [
+      {
+        "id": "1Sl0BxcjNNa1DmghGwzbujesOvpHZG-WG"
+      }
+    ]
+  },
+  "root": {
+    "id": "1LrIMfvoHRwL-g5XrwI3gLfuyaXQ6Dm1u",
+    "name": "0V81",
+    "mimeType": "application/vnd.google-apps.folder",
+    "type": "rootfolder",
+    "date": "2020-05-04 20:54:46.332275",
+    "childs": [
+      {
+        "id": "1KOytdjDcgpJqcVQEntSHARJPKUEt4QAX"
+      },
+      {
+        "id": "1jSwc3lQ1KEFer9uzBWALr_ejOn-X8_mO"
+      },
+      {
+        "id": "1wQuUZhnS3uCvS5CjJpvU40cJNFeQRIxA"
+      }
+    ]
+  },
+  "1jSwc3lQ1KEFer9uzBWALr_ejOn-X8_mO": {
+    "id": "1jSwc3lQ1KEFer9uzBWALr_ejOn-X8_mO",
+    "name": "Математика Лабы",
+    "mimeType": "application/vnd.google-apps.folder",
+    "type": "predmet",
+    "date": "2020-05-04 20:54:46.332275",
+    "childs": [
+      {
+        "id": "1wSCUNe0WW7h7pyb3OdXuBBZ8BefN8UHs"
+      }
+    ]
+  },
+  "12NI7QW6stnKVWmLeo-9a2QHzPlSlP6v2": {
+    "id": "12NI7QW6stnKVWmLeo-9a2QHzPlSlP6v2",
+    "name": "peoples.json",
+    "mimeType": "application/json",
+    "type": "listofpeople",
+    "date": "2020-05-04 20:54:46.332275",
+    "childs": [
+      {
+        "id": "0"
+      }
+    ]
+  },
+  "1Sl0BxcjNNa1DmghGwzbujesOvpHZG-WG": {
+    "id": "1Sl0BxcjNNa1DmghGwzbujesOvpHZG-WG",
+    "name": "chat.csv",
+    "mimeType": "text/csv",
+    "type": "chat",
+    "date": "2020-05-04 20:54:46.332275",
+    "childs": [
+      {
+        "id": "0"
+      }
+    ]
+  },
+  "1wSCUNe0WW7h7pyb3OdXuBBZ8BefN8UHs": {
+    "id": "1wSCUNe0WW7h7pyb3OdXuBBZ8BefN8UHs",
+    "name": "chat.csv",
+    "mimeType": "text/csv",
+    "type": "chat",
+    "date": "2020-05-04 20:54:46.332275",
+    "childs": [
+      {
+        "id": "0"
+      }
+    ]
+  },
+  "1wQuUZhnS3uCvS5CjJpvU40cJNFeQRIxA": {
+    "id": "1wQuUZhnS3uCvS5CjJpvU40cJNFeQRIxA",
+    "name": "Ankets",
+    "mimeType": "application/vnd.google-apps.folder",
+    "type": "afolder",
+    "date": "2020-05-04 20:54:46.332275",
+    "childs": [
+      {
+        "id": "12NI7QW6stnKVWmLeo-9a2QHzPlSlP6v2"
+      }
+    ]
+  }
+}
